@@ -29,6 +29,8 @@ The design consists of the following sections:
 ## Repository Structure
 - `LTspice/` – Circuit schematic
 - `Documentation/` – Project report
+- `Results/` – Output PNG
+
 
 ## Reference
 A. Dossanov, C. Ziegler, and V. Issakov, "Ultra-Low-Power High PSRR Sub-1 V Voltage Reference Circuit in 22 nm FDSOI CMOS," IEEE Transactions on Circuits and Systems II: Express Briefs, 2024.
